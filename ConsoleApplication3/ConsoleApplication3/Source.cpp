@@ -1,9 +1,7 @@
 #include <iostream>
 
-using namespace std;
-
 int main() {
-	cout << "hi" << endl;
+	std::cout << "Just testing stuff..." << std::endl;
 
 	return 0;
 }
